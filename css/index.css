@@ -1,0 +1,135 @@
+.heade{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 6rem;
+    padding: 0rem 5rem;
+    border-bottom: 0.01rem solid hwb(0 0% 100%);
+}
+.tablainicio{
+    width: 55rem;
+    text-align: center;
+    font-size: medium;
+}
+.ico{
+    width:5rem;
+    float: left;
+    margin-left: 6rem;
+}
+.contenido{
+    width: 120rem;
+    height: 170vh;
+    margin: auto; 
+    padding: 5rem 3rem ;
+}
+.header{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 6rem;
+    padding: 0rem 3rem;
+    margin-left: 6;
+    margin-top: -4.3rem;
+}
+.perfil{
+    width: 80rem;
+    padding-right: 20rem;
+    font-size: xx-large;
+    font-weight: 500    ;
+}
+.tabla{
+width: 110rem;
+}
+.conten{
+    width: 80rem;
+    text-align: center;
+
+}
+.articulo{
+    width: 120rem;
+    height: 100rem; 
+    margin-left: -2.5rem;
+    margin-top: 0.5rem;
+    
+}
+.img{
+    width: 100rem;
+    height: 60rem;
+    float: left ;
+    margin-left: 8rem;
+    margin-top: -0.1rem;
+}
+.titulo{
+    
+   float: left  ;
+    text-align:left;
+    font-size: 3rem;
+    margin-left: 15rem;
+    font-weight: 20rem;
+    margin-top: -36rem;
+    color: aliceblue;    
+}
+.ptitulo{
+    font-size: medium;
+}
+.tituloindex{
+    float: left;
+    font-size: x-large;
+    margin-left: 50rem;
+    margin-top: 2rem;
+}
+.titulo2{
+    font-size: x-large;
+    margin-left: -3rem;
+    margin-top: -2rem;
+}
+.titulo2{
+    float: left  ;
+    text-align:left;
+    font-size: 3rem;
+    margin-left: 7rem;
+    font-weight: 20rem;
+    margin-top: 5rem;
+}
+.descripcion{
+    float: left;
+    text-align: left;
+    font-size: small;
+    margin-left: -21rem;
+    font-weight: 20rem;
+    margin-top: 20rem;
+}
+.parrafo{
+    margin-left: -9rem;
+    text-align: justify;
+    font-size: medium;
+    margin-top: -3rem;
+}
+.lista{
+    float: left;
+    font-size: large;
+    margin-top: -5rem;
+}
+.tabla2{
+    float: left;
+    width: 100rem;
+    text-align: center;
+    margin-left: 8rem;
+
+}
+.columna{
+    
+    text-align: left;
+    font-size: medium;
+}
+
+a{
+    color: black;
+    cursor:pointer;
+    } 
+.header{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 6rem;
+    padding: 0rem 5rem;
+    margin-top: 0.5rem;
+    border: 0.01rem solid hwb(0 0% 100%);
+}
